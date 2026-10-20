@@ -1,0 +1,2 @@
+﻿id,kind,author,title,year,url,access,finding,limit,reference,retrieved,section
+I09,国际技术标准,GS1,EPCIS Standard Release 2.0,2022,https://ref.gs1.org/standards/epcis/2.0.0/,官方标准全文，第7.4.1—7.4.5节,区分事件发生时间与EPCIS资料库记录时间，提供对象、聚合及投入产出转换事件结构。,技术互操作参照，不构成我国动力电池强制报送格式；recordTime不等同法定报送时间。,GS1. EPCIS Standard Release 2.0[S/OL]. Jun 2022[2026-10-20]. https://ref.gs1.org/standards/epcis/2.0.0/ .,2026-10-20,4.1.3

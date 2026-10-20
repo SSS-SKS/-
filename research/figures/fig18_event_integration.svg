@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='518.74pt' height='425.20pt' viewBox='0 0 518.74 425.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MC4wMHw0MjUuMjA='>
+    <rect x='0.00' y='0.00' width='518.74' height='425.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0MjUuMjA=)'>
+<text x='23.34' y='22.51' style='font-size: 11.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='111.25px' lengthAdjust='spacingAndGlyphs'>a  实物流转与信息记录</text>
+<rect x='23.34' y='44.65' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F2F6F5;' />
+<text x='68.73' y='64.04' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='36.00px' lengthAdjust='spacingAndGlyphs'>来源主体</text>
+<text x='68.73' y='77.84' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='59.50px' lengthAdjust='spacingAndGlyphs'>编码与来源凭证</text>
+<rect x='23.34' y='119.06' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F7F8FA;' />
+<text x='68.73' y='138.45' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='36.00px' lengthAdjust='spacingAndGlyphs'>身份关联</text>
+<text x='68.73' y='152.30' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='68.00px' lengthAdjust='spacingAndGlyphs'>对象、主体、批次</text>
+<line x1='68.73' y1='93.54' x2='68.73' y2='115.65' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='67.06,112.06 68.73,115.65 70.41,112.06 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<line x1='118.27' y1='68.03' x2='146.28' y2='68.03' style='stroke-width: 0.75; stroke: #276653;' />
+<polyline points='142.70,69.71 146.28,68.03 142.70,66.36 ' style='stroke-width: 0.75; stroke: #276653;' />
+<line x1='118.27' y1='142.44' x2='146.28' y2='142.44' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='142.70,144.11 146.28,142.44 142.70,140.77 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<rect x='150.43' y='44.65' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F2F6F5;' />
+<text x='195.82' y='64.04' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='45.00px' lengthAdjust='spacingAndGlyphs'>收集型网点</text>
+<text x='195.82' y='77.79' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='68.00px' lengthAdjust='spacingAndGlyphs'>分类、暂存、出库</text>
+<rect x='150.43' y='119.06' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F7F8FA;' />
+<text x='195.82' y='138.45' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='36.00px' lengthAdjust='spacingAndGlyphs'>出库事件</text>
+<text x='195.82' y='152.34' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='68.00px' lengthAdjust='spacingAndGlyphs'>发生、提交、回执</text>
+<line x1='195.82' y1='93.54' x2='195.82' y2='115.65' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='194.15,112.06 195.82,115.65 197.50,112.06 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<line x1='245.36' y1='68.03' x2='273.38' y2='68.03' style='stroke-width: 0.75; stroke: #276653;' />
+<polyline points='269.79,69.71 273.38,68.03 269.79,66.36 ' style='stroke-width: 0.75; stroke: #276653;' />
+<line x1='245.36' y1='142.44' x2='273.38' y2='142.44' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='269.79,144.11 273.38,142.44 269.79,140.77 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<rect x='277.53' y='44.65' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F2F6F5;' />
+<text x='322.92' y='64.04' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='45.00px' lengthAdjust='spacingAndGlyphs'>运输与交接</text>
+<text x='322.92' y='77.84' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='42.50px' lengthAdjust='spacingAndGlyphs'>运单与签收</text>
+<rect x='277.53' y='119.06' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F7F8FA;' />
+<text x='322.92' y='138.45' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='36.00px' lengthAdjust='spacingAndGlyphs'>交接凭证</text>
+<text x='322.92' y='152.31' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='59.50px' lengthAdjust='spacingAndGlyphs'>实际到货与更正</text>
+<line x1='322.92' y1='93.54' x2='322.92' y2='115.65' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='321.24,112.06 322.92,115.65 324.59,112.06 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<line x1='372.46' y1='68.03' x2='400.47' y2='68.03' style='stroke-width: 0.75; stroke: #276653;' />
+<polyline points='396.88,69.71 400.47,68.03 396.88,66.36 ' style='stroke-width: 0.75; stroke: #276653;' />
+<line x1='372.46' y1='142.44' x2='400.47' y2='142.44' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='396.88,144.11 400.47,142.44 396.88,140.77 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<rect x='404.62' y='44.65' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F2F6F5;' />
+<text x='450.01' y='64.04' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='54.00px' lengthAdjust='spacingAndGlyphs'>综合利用企业</text>
+<text x='450.01' y='77.86' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='42.50px' lengthAdjust='spacingAndGlyphs'>入库与处理</text>
+<rect x='404.62' y='119.06' width='90.78' height='46.77' style='stroke-width: 0.45; stroke: #BECBD0; fill: #F7F8FA;' />
+<text x='450.01' y='138.45' text-anchor='middle' style='font-size: 9.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='36.00px' lengthAdjust='spacingAndGlyphs'>入库事件</text>
+<text x='450.01' y='152.34' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='68.00px' lengthAdjust='spacingAndGlyphs'>发生、提交、回执</text>
+<line x1='450.01' y1='93.54' x2='450.01' y2='115.65' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<polyline points='448.33,112.06 450.01,115.65 451.68,112.06 ' style='stroke-width: 0.75; stroke: #536372; stroke-dasharray: 4.00,4.00;' />
+<text x='259.37' y='187.92' text-anchor='middle' style='font-size: 8.50px;fill: #536372; font-family: "FangSong";' textLength='225.25px' lengthAdjust='spacingAndGlyphs'>实线：实物流转     虚线：信息关联；字段为研究设计建议</text>
+<line x1='23.34' y1='201.97' x2='495.40' y2='201.97' style='stroke-width: 0.45; stroke: #BECBD0;' />
+<text x='23.34' y='224.63' style='font-size: 10.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='121.67px' lengthAdjust='spacingAndGlyphs'>b  信息时钟：交接假设案例</text>
+<line x1='33.72' y1='272.13' x2='446.12' y2='272.13' style='stroke-width: 0.75; stroke: #276653;' />
+<circle cx='33.72' cy='272.13' r='1.89' style='stroke-width: 0.75; stroke: #276653; fill: #FFFFFF;' />
+<circle cx='171.18' cy='272.13' r='1.89' style='stroke-width: 0.75; stroke: #276653; fill: #FFFFFF;' />
+<circle cx='308.65' cy='272.13' r='1.89' style='stroke-width: 0.75; stroke: #276653; fill: #FFFFFF;' />
+<circle cx='446.12' cy='272.13' r='1.89' style='stroke-width: 0.75; stroke: #276653; fill: #FFFFFF;' />
+<text x='33.72' y='255.96' text-anchor='middle' style='font-size: 8.40px;fill: #172D3E; font-family: "FangSong";' textLength='37.77px' lengthAdjust='spacingAndGlyphs'>第0日出库</text>
+<text x='171.18' y='255.96' text-anchor='middle' style='font-size: 8.40px;fill: #172D3E; font-family: "FangSong";' textLength='37.77px' lengthAdjust='spacingAndGlyphs'>第2日入库</text>
+<text x='308.65' y='255.96' text-anchor='middle' style='font-size: 8.40px;fill: #172D3E; font-family: "FangSong";' textLength='50.36px' lengthAdjust='spacingAndGlyphs'>第10日报出库</text>
+<text x='446.12' y='255.96' text-anchor='middle' style='font-size: 8.40px;fill: #172D3E; font-family: "FangSong";' textLength='50.36px' lengthAdjust='spacingAndGlyphs'>第22日报入库</text>
+<text x='101.15' y='296.34' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='55.25px' lengthAdjust='spacingAndGlyphs'>实际运输 2 日</text>
+<text x='376.09' y='296.37' text-anchor='middle' style='font-size: 8.50px;fill: #172D3E; font-family: "FangSong";' textLength='85.00px' lengthAdjust='spacingAndGlyphs'>单向待匹配 W = 12 日</text>
+<text x='259.37' y='319.83' text-anchor='middle' style='font-size: 9.00px;fill: #172D3E; font-family: "FangSong";' textLength='207.00px' lengthAdjust='spacingAndGlyphs'>U = 10；V = 20；τ = 2；W = max(0, τ + V - U)</text>
+<text x='259.37' y='338.79' text-anchor='middle' style='font-size: 8.20px;fill: #536372; font-family: "FangSong";' textLength='237.44px' lengthAdjust='spacingAndGlyphs'>两方均按各自期限报送；此时间轴按事件顺序示意，不按长度比例</text>
+<line x1='23.34' y1='352.91' x2='495.40' y2='352.91' style='stroke-width: 0.45; stroke: #BECBD0;' />
+<text x='23.34' y='375.11' style='font-size: 10.00px; font-weight: bold;fill: #172D3E; font-family: "Arial";' textLength='131.12px' lengthAdjust='spacingAndGlyphs'>c  实物时钟：分类贮存与容量</text>
+<text x='259.37' y='396.44' text-anchor='middle' style='font-size: 9.00px;fill: #172D3E; font-family: "FangSong";' textLength='252.00px' lengthAdjust='spacingAndGlyphs'>上海收集型网点 B/C 类情景：h + δ ≤ 5 日；峰值库存 ≤ K</text>
+<text x='259.37' y='413.34' text-anchor='middle' style='font-size: 8.50px;fill: #276653; font-family: "FangSong";' textLength='255.00px' lengthAdjust='spacingAndGlyphs'>用同一批次关联核验；信息期限、实物期限与系统等待时间分别计算</text>
+</g>
+</g>
+</svg>

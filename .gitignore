@@ -1,0 +1,9 @@
+*.docx
+*.doc
+*.pdf
+!research/figures/*.pdf
+*.crdownload
+*.zip
+private/
+local-report/
+~$*

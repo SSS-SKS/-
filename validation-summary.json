@@ -1,0 +1,33 @@
+{
+  "checked_on": "2026-10-20",
+  "figures": 18,
+  "sources": 83,
+  "citations": 74,
+  "tables": 12,
+  "core_results": {
+    "expected_window_days": 10.313703703703704,
+    "probability_over_15_days": 0.31666666666666665,
+    "improved_turnover_days": 4.5,
+    "baseline_turnover_days": 4,
+    "lithium_chain_recovery": 0.646,
+    "enterprise_emission_intensity": 0.44,
+    "example_window_days": 12
+  },
+  "checks": {
+    "no_external_runtime_dependencies": true,
+    "all_images_embedded": true,
+    "institution_and_contact_text_scan": true,
+    "core_calculations": true,
+    "first_citation_order": true,
+    "internal_anchors": true,
+    "source_and_figure_counts": true,
+    "offline_open": true,
+    "offline_html_export": true,
+    "source_search": true,
+    "figure_zoom": true,
+    "model_input_validation": true,
+    "mobile_390px_no_overflow": true
+  },
+  "formal_report_files_public": false,
+  "html_sha256": "e680db62a6eafc812fbc1c9abb702ee3480187d7a7ef9a4e529f3b58e15f26ce"
+}

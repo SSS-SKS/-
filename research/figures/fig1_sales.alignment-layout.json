@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "backend": "r-patchwork-cairo-viewports",
+  "figure": {
+    "width_pt": 411.023622047244,
+    "height_pt": 243.779527559055
+  },
+  "panels": [
+    {
+      "id": "a",
+      "bbox_pt": [53.4968866749689, 62.7395267745953, 194.039227895392, 189.134495641345],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 10,
+      "row_stop": 11,
+      "col_start": 8,
+      "col_stop": 9
+    },
+    {
+      "id": "b",
+      "bbox_pt": [250.532378580324, 62.7395267745953, 391.074719800747, 189.134495641345],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 10,
+      "row_stop": 11,
+      "col_start": 23,
+      "col_stop": 24
+    }
+  ],
+  "exemptions": []
+}

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='411.02pt' height='178.58pt' viewBox='0 0 411.02 178.58'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MTEuMDJ8MC4wMHwxNzguNTg='>
+    <rect x='0.00' y='0.00' width='411.02' height='178.58' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MTEuMDJ8MC4wMHwxNzguNTg=)'>
+<rect x='29.84' y='34.35' width='96.26' height='64.41' style='stroke-width: 0.75; stroke: #B9C8CB; stroke-linecap: butt; stroke-linejoin: miter; fill: #EFF3F4;' />
+<rect x='157.38' y='34.35' width='96.26' height='64.41' style='stroke-width: 0.75; stroke: #B9C8CB; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4F0EC;' />
+<rect x='284.93' y='34.35' width='96.26' height='64.41' style='stroke-width: 0.75; stroke: #B9C8CB; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6EDF4;' />
+<line x1='127.54' y1='66.56' x2='154.97' y2='66.56' style='stroke-width: 0.96; stroke: #278A83; stroke-linecap: butt;' />
+<polyline points='150.56,69.11 154.97,66.56 150.56,64.01 ' style='stroke-width: 0.96; stroke: #278A83; stroke-linecap: butt;' />
+<line x1='256.05' y1='66.56' x2='282.52' y2='66.56' style='stroke-width: 0.96; stroke: #278A83; stroke-linecap: butt;' />
+<polyline points='278.10,69.11 282.52,66.56 278.10,64.01 ' style='stroke-width: 0.96; stroke: #278A83; stroke-linecap: butt;' />
+<line x1='77.97' y1='100.66' x2='77.97' y2='134.76' style='stroke-width: 0.85; stroke: #6088AF; stroke-linecap: butt;' />
+<line x1='77.97' y1='134.76' x2='333.06' y2='134.76' style='stroke-width: 0.85; stroke: #6088AF; stroke-linecap: butt;' />
+<line x1='333.06' y1='134.76' x2='333.06' y2='100.66' style='stroke-width: 0.85; stroke: #6088AF; stroke-linecap: butt;' />
+<polyline points='335.61,105.08 333.06,100.66 330.51,105.08 ' style='stroke-width: 0.85; stroke: #6088AF; stroke-linecap: butt;' />
+<text x='77.97' y='62.65' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='66.01px' lengthAdjust='spacingAndGlyphs'>换电服务、维修、</text>
+<text x='77.97' y='76.51' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='82.51px' lengthAdjust='spacingAndGlyphs'>报废机动车回收拆解等</text>
+<text x='205.51' y='62.65' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='74.26px' lengthAdjust='spacingAndGlyphs'>生产企业依法设立的</text>
+<text x='205.51' y='76.51' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='49.51px' lengthAdjust='spacingAndGlyphs'>回收服务网点</text>
+<text x='333.06' y='62.65' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='41.26px' lengthAdjust='spacingAndGlyphs'>依法设立的</text>
+<text x='333.06' y='76.51' text-anchor='middle' style='font-size: 8.25px;fill: #243D50; font-family: "Noto Sans CJK SC";' textLength='49.51px' lengthAdjust='spacingAndGlyphs'>综合利用企业</text>
+<text x='205.51' y='154.52' text-anchor='middle' style='font-size: 7.40px;fill: #6088AF; font-family: "Noto Sans CJK SC";' textLength='132.97px' lengthAdjust='spacingAndGlyphs'>来源主体亦可依法直接交付综合利用企业</text>
+</g>
+</svg>

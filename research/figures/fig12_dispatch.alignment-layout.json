@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "backend": "r-patchwork-cairo-viewports",
+  "figure": {
+    "width_pt": 411.023622047244,
+    "height_pt": 436.535433070866
+  },
+  "panels": [
+    {
+      "id": "a",
+      "bbox_pt": [45.4968866749688, 300.881394769614, 172.539227895392, 382.134495641345],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 10,
+      "row_stop": 11,
+      "col_start": 8,
+      "col_stop": 9
+    },
+    {
+      "id": "b",
+      "bbox_pt": [264.032378580324, 300.881394769614, 391.074719800747, 382.134495641345],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 10,
+      "row_stop": 11,
+      "col_start": 23,
+      "col_stop": 24
+    },
+    {
+      "id": "c",
+      "bbox_pt": [45.4968866749688, 139.202391033624, 172.539227895392, 220.455491905355],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 28,
+      "row_stop": 29,
+      "col_start": 8,
+      "col_stop": 9
+    },
+    {
+      "id": "d",
+      "bbox_pt": [264.032378580324, 139.202391033624, 391.074719800747, 220.455491905355],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 28,
+      "row_stop": 29,
+      "col_start": 23,
+      "col_stop": 24
+    }
+  ],
+  "exemptions": []
+}
