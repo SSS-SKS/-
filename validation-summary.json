@@ -1,9 +1,8 @@
 {
-  "checked_on": "2026-10-20",
+  "checked_on": "2026-10-21",
   "figures": 18,
   "sources": 83,
   "citations": 74,
-  "tables": 12,
   "core_results": {
     "expected_window_days": 10.313703703703704,
     "probability_over_15_days": 0.31666666666666665,
@@ -18,7 +17,6 @@
     "all_images_embedded": true,
     "institution_and_contact_text_scan": true,
     "core_calculations": true,
-    "first_citation_order": true,
     "internal_anchors": true,
     "source_and_figure_counts": true,
     "offline_open": true,
@@ -26,8 +24,12 @@
     "source_search": true,
     "figure_zoom": true,
     "model_input_validation": true,
-    "mobile_390px_no_overflow": true
+    "mobile_390px_no_overflow": true,
+    "no_report_text_embedded": true,
+    "topic_routes": true
   },
   "formal_report_files_public": false,
-  "html_sha256": "e680db62a6eafc812fbc1c9abb702ee3480187d7a7ef9a4e529f3b58e15f26ce"
+  "html_sha256": "33b7d20da01c9c29593b2c18f981cf73ea10ac8af9cd41f79c12bd5a735345dc",
+  "website_routes": 11,
+  "artifact_type": "independent research website"
 }
