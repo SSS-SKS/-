@@ -1,6 +1,6 @@
 # 动力电池回收研究
 
-[在线打开研究资料站](https://sss-sks.github.io/-/) · [下载集成式HTML](https://raw.githubusercontent.com/SSS-SKS/-/main/index.html)
+[在线打开研究资料站](https://sss-sks.github.io/-/) · [下载集成式HTML](https://github.com/SSS-SKS/-/releases/download/offline-html/battery-recycling-research.html)
 
 网页包含匿名研究论证、18幅图表、83条来源检索、四类模型计算和数据下载。下载 `index.html` 后可用浏览器离线打开，图像、样式、脚本和资料已内嵌，无需安装软件。
 
