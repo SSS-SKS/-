@@ -1,35 +1,34 @@
 {
+  "version": "V2",
   "checked_on": "2026-10-21",
   "figures": 18,
-  "sources": 83,
-  "citations": 74,
+  "sources": 84,
+  "citations": 76,
+  "html_sha256": "a74ed75160c939485ded550eeb41810948cc5c94f1f10ec02ea7558f842acb96",
   "core_results": {
     "expected_window_days": 10.313703703703704,
     "probability_over_15_days": 0.31666666666666665,
-    "improved_turnover_days": 4.5,
     "baseline_turnover_days": 4,
+    "improved_turnover_days": 4.5,
     "lithium_chain_recovery": 0.646,
-    "enterprise_emission_intensity": 0.44,
-    "example_window_days": 12
+    "enterprise_emission_intensity": 0.44
   },
   "checks": {
-    "no_external_runtime_dependencies": true,
-    "all_images_embedded": true,
-    "institution_and_contact_text_scan": true,
-    "core_calculations": true,
-    "internal_anchors": true,
-    "source_and_figure_counts": true,
-    "offline_open": true,
-    "offline_html_export": true,
-    "source_search": true,
-    "figure_zoom": true,
-    "model_input_validation": true,
-    "mobile_390px_no_overflow": true,
-    "no_report_text_embedded": true,
-    "topic_routes": true
+    "identity": true,
+    "inputs": 19,
+    "reportLagRows": 8,
+    "reportEngineeringRows": 12,
+    "independentIntegrationChecks": 108,
+    "coreReferenceValues": true,
+    "presets": true,
+    "invalidInputs": true,
+    "reset": true,
+    "export": true,
+    "offline": true,
+    "noExternalRequests": true,
+    "mobileWidth": 390,
+    "errors": []
   },
   "formal_report_files_public": false,
-  "html_sha256": "33b7d20da01c9c29593b2c18f981cf73ea10ac8af9cd41f79c12bd5a735345dc",
-  "website_routes": 11,
-  "artifact_type": "independent research website"
+  "institution_and_contact_text_scan": true
 }

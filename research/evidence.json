@@ -116,7 +116,7 @@
       "finding": "把废弃物循环利用纳入绿色转型体系。",
       "limit": "宏观方向，不能直接证明电池回收政策效果。",
       "section": "背景储备",
-      "reference": "国务院办公厅．关于加快构建废弃物循环利用体系的意见[EB/OL]．2024[2026-10-19]．https://www.mee.gov.cn/zcwj/gwywj/202402/t20240220_1066422.shtml",
+      "reference": "国务院办公厅. 关于加快构建废弃物循环利用体系的意见（国办发〔2024〕7号）[EB/OL]. (2024-02-06)[2026-10-21]. https://www.mee.gov.cn/zcwj/gwywj/202402/t20240220_1066422.shtml",
       "doi": "",
       "status": "宏观背景"
     },
@@ -342,7 +342,7 @@
       "finding": "用系统动力学与演化博弈讨论回收监管策略。",
       "limit": "模型结论依赖假设及参数；本稿不引用未核实的具体阈值。",
       "section": "2；5",
-      "reference": "危浪，王翠霞．基于SD演化博弈的新能源车动力电池回收监管策略研究[J]．系统科学与数学，2023，43(5)：1314-1330．DOI:10.12341/jssms22385．",
+      "reference": "危浪，王翠霞．基于SD演化博弈的新能源车动力电池回收监管策略研究[J]．系统科学与数学，2023，43(5)：1314-1330．DOI:10.12341/jssms22385．https://sysmath.cjoe.ac.cn/jweb_xtkxysx/CN/10.12341/jssms22385",
       "doi": "10.12341/jssms22385",
       "status": ""
     },
@@ -357,7 +357,7 @@
       "finding": "重庆1190份样本的离散选择研究关注价格、回收便利性和可追溯性。",
       "limit": "地区样本和陈述偏好不能直接当全国真实交投行为。",
       "section": "2；5",
-      "reference": "HUANG X, LEI S, LIU F, et al. Consumer preference and willingness-to-pay for formal recycling of electric vehicle batteries: A discrete choice experiment in China[J]. Journal of Environmental Management, 2024, 370:122180. DOI:10.1016/j.jenvman.2024.122180.",
+      "reference": "HUANG X, LEI S, LIU F, et al. Consumer preference and willingness-to-pay for formal recycling of electric vehicle batteries: A discrete choice experiment in China[J]. Journal of Environmental Management, 2024, 370:122180. DOI:10.1016/j.jenvman.2024.122180. https://pubmed.ncbi.nlm.nih.gov/39255580/",
       "doi": "10.1016/j.jenvman.2024.122180",
       "status": ""
     },
@@ -372,7 +372,7 @@
       "finding": "用供应链博弈讨论溯源技术投入与信任、成本条件的关系。",
       "limit": "不能把模型中信任提高直接等同实际回收率上升；区块链不保证源头真实。",
       "section": "2；4",
-      "reference": "冯章伟，杜碧升，于志勇，等．区块链驱动的新能源汽车动力电池回收与溯源技术投入策略研究[J]．中国管理科学，2025(4)：313-324．DOI:10.16381/j.cnki.issn1003-207x.2023.0319．",
+      "reference": "冯章伟，杜碧升，于志勇，等．区块链驱动的新能源汽车动力电池回收与溯源技术投入策略研究[J]．中国管理科学，2025(4)：313-324．DOI:10.16381/j.cnki.issn1003-207x.2023.0319．https://www.zgglkx.com/CN/volumn/volumn_265.shtml",
       "doi": "10.16381/j.cnki.issn1003-207x.2023.0319",
       "status": ""
     },
@@ -387,7 +387,7 @@
       "finding": "四方博弈将消费者偏好与非正规回收者纳入分析。",
       "limit": "策略稳定条件具有模型依赖性；未直接检验2026新规效果。",
       "section": "2；5",
-      "reference": "GE M, WU C. Recycling of retired power batteries: A four-party evolutionary game considering consumer behavior preferences and informal recyclers’ participation[J]. Energy Strategy Reviews, 2026, 64:102136. DOI:10.1016/j.esr.2026.102136.",
+      "reference": "GE M, WU C. Recycling of retired power batteries: A four-party evolutionary game considering consumer behavior preferences and informal recyclers’ participation[J]. Energy Strategy Reviews, 2026, 64:102136. DOI:10.1016/j.esr.2026.102136. https://www.sciencedirect.com/science/article/pii/S2211467X26001021",
       "doi": "10.1016/j.esr.2026.102136",
       "status": ""
     },
@@ -402,7 +402,7 @@
       "finding": "2013—2022年220城面板，以双重差分研究试点政策与回收专利。",
       "limit": "专利衡量创新产出，不代表回收量、真实回收率或污染减排；样本止于2022年。",
       "section": "2；5",
-      "reference": "田西，袁可欣，温湖炜，等．动力电池回收利用试点政策的技术创新效应及其促进策略[J]．中国人口·资源与环境，2025，35(1)：133-143．DOI:10.12062/cpre.20241004．",
+      "reference": "田西，袁可欣，温湖炜，等．动力电池回收利用试点政策的技术创新效应及其促进策略[J]．中国人口·资源与环境，2025，35(1)：133-143．DOI:10.12062/cpre.20241004．https://www.cssd1992.org/files/IN8qPL5BFtBtkSKzi7bo_%E7%94%B0%E8%A5%BF.pdf",
       "doi": "10.12062/cpre.20241004",
       "status": ""
     },
@@ -417,7 +417,7 @@
       "finding": "评述电动汽车锂电池回收与再利用技术路线和难点。",
       "limit": "技术综述不直接评估中国当前责任制度的执行。",
       "section": "2",
-      "reference": "HARPER G, SOMMERVILLE R, KENDRICK E, et al. Recycling lithium-ion batteries from electric vehicles[J]. Nature, 2019, 575:75-86. DOI:10.1038/s41586-019-1682-5.",
+      "reference": "HARPER G, SOMMERVILLE R, KENDRICK E, et al. Recycling lithium-ion batteries from electric vehicles[J]. Nature, 2019, 575:75-86. DOI:10.1038/s41586-019-1682-5. https://www.nature.com/articles/s41586-019-1682-5",
       "doi": "10.1038/s41586-019-1682-5",
       "status": ""
     },
@@ -432,7 +432,7 @@
       "finding": "讨论设计拆解、经济约束及监管分散问题；图1为价值链概念图。",
       "limit": "全球技术示意，非中国2026年法规；原图中的梯次用途、填埋均非本文合规建议。",
       "section": "2；图2",
-      "reference": "CHACANA-OLIVARES J, PECEÑO B, GRAGEDA M, et al. Lithium-ion battery recycling: a perspective on key challenges and opportunities[J]. npj Materials Sustainability, 2025, 3:38. DOI:10.1038/s44296-025-00083-7.",
+      "reference": "CHACANA-OLIVARES J, PECEÑO B, GRAGEDA M, et al. Lithium-ion battery recycling: a perspective on key challenges and opportunities[J]. npj Materials Sustainability, 2025, 3:38. DOI:10.1038/s44296-025-00083-7. https://www.nature.com/articles/s44296-025-00083-7",
       "doi": "10.1038/s44296-025-00083-7",
       "status": "图1按CC BY-NC-ND 4.0原样转载；仅等比例缩放"
     },
@@ -447,7 +447,7 @@
       "finding": "综述186篇文献，讨论数字产品护照系统的技术、架构与跨行业应用。",
       "limit": "跨行业系统综述不等于中国动力电池回收效果评估；不据此推荐单一技术。",
       "section": "2.4；6.2",
-      "reference": "Zhang Z, Gu J, Li R, et al. Bridging digital and green transitions: A literature review of digital product passport systems[J]. Renewable and Sustainable Energy Reviews, 2026, 228: 116600. DOI: 10.1016/j.rser.2025.116600.",
+      "reference": "ZHANG Z, GU J, LI R, et al. Bridging digital and green transitions: A literature review of digital product passport systems[J]. Renewable and Sustainable Energy Reviews, 2026, 228: 116600. DOI: 10.1016/j.rser.2025.116600. https://www.sciencedirect.com/science/article/abs/pii/S1364032125012730",
       "doi": "10.1016/j.rser.2025.116600",
       "status": "已核验题录及公开内容；非全文精读"
     },
@@ -462,7 +462,7 @@
       "finding": "评述欧盟电池法规与数字护照的制度和实施挑战。",
       "limit": "欧盟制度语境；未作为中国现行义务依据；不据评述推断实际绩效。",
       "section": "2.4；6.2",
-      "reference": "Soavi F, Gregucci A, Liverani A, et al. The European Battery Regulation and Digital Battery Passport: Prospects and Challenges[J]. Batteries, 2026, 12(3): 97. DOI: 10.3390/batteries12030097.",
+      "reference": "SOAVI F, GREGUCCI A, LIVERANI A, et al. The European Battery Regulation and Digital Battery Passport: Prospects and Challenges[J]. Batteries, 2026, 12(3): 97. DOI: 10.3390/batteries12030097. https://doi.org/10.3390/batteries12030097",
       "doi": "10.3390/batteries12030097",
       "status": "已核验题录及公开内容；非全文精读"
     },
@@ -477,7 +477,7 @@
       "finding": "第77条电池护照适用日期为2027-02-18，范围有电池类型限制。",
       "limit": "未到适用日期；仅比较护照条款，不据此推断中国已有等同制度。",
       "section": "4",
-      "reference": "EUROPEAN PARLIAMENT AND COUNCIL. Regulation (EU) 2023/1542: consolidated text 13 August 2026[EB/OL]. Article 77[2026-10-19]. https://eur-lex.europa.eu/eli/reg/2023/1542/ojn.",
+      "reference": "EUROPEAN PARLIAMENT AND COUNCIL. Regulation (EU) 2023/1542[EB/OL]. Article 77[2026-10-19]．https://eur-lex.europa.eu/eli/reg/2023/1542/ojn",
       "doi": "",
       "status": "欧盟制度比较；截至检索日电池护照条款尚未到适用日期"
     },
@@ -579,7 +579,7 @@
       "year": 2024,
       "url": "https://hgjz.cip.com.cn/CN/Y2024/V43/I10/5820",
       "doi": "10.16085/j.issn.1000-6613.2024-0254",
-      "reference": "高文芳，王嘉庆，王忠强，等．我国废旧动力电池回收利用国家及地方政策现状分析[J]．化工进展，2024，43(10)：5820–5836．DOI: 10.16085/j.issn.1000-6613.2024-0254．",
+      "reference": "高文芳，王嘉庆，王忠强，等．我国废旧动力电池回收利用国家及地方政策现状分析[J]．化工进展，2024，43(10)：5820–5836．DOI: 10.16085/j.issn.1000-6613.2024-0254．https://hgjz.cip.com.cn/CN/Y2024/V43/I10/5820",
       "finding": "国家及地方政策的年份、区域和关注点比较；提出政策完善原则。",
       "limit": "政策分布与重点分析不直接测量企业履行；研究早于2026年调整。",
       "access": "出版社题录、摘要及公开图表",
@@ -594,7 +594,7 @@
       "year": 2023,
       "url": "https://www.sciencedirect.com/science/article/pii/S0959652623032316",
       "doi": "10.1016/j.jclepro.2023.139073",
-      "reference": "Liu F, Tang J, Rustam A, et al.．Evaluation of the central and local power batteries recycling policies in China: A PMC-Index model approach[J]．Journal of Cleaner Production, 2023, 427: 139073．DOI: 10.1016/j.jclepro.2023.139073．",
+      "reference": "LIU F, TANG J, RUSTAM A, et al. Evaluation of the central and local power batteries recycling policies in China: A PMC-Index model approach[J]. Journal of Cleaner Production, 2023, 427: 139073. DOI: 10.1016/j.jclepro.2023.139073. https://www.sciencedirect.com/science/article/pii/S0959652623032316",
       "finding": "文本挖掘与PMC指数评价2016—2022年13项中央、25项地方政策，关注中央地方一致性。",
       "limit": "文本评价受指标编码与赋权影响，不能直接说明回收实物、溯源数据或因果效果。",
       "access": "出版社公开摘要/索引；Crossref元数据",
@@ -609,7 +609,7 @@
       "year": 2026,
       "url": "https://www.zgglkx.com/CN/10.16381/j.cnki.issn1003-207x.2025.0647",
       "doi": "10.16381/j.cnki.issn1003-207x.2025.0647",
-      "reference": "李芯怡，车阿大，洪兆富，等．考虑回收规制的废旧动力电池回收决策与合作机制设计研究[J/OL]．中国管理科学，2026（在线论文）．DOI: 10.16381/j.cnki.issn1003-207x.2025.0647．",
+      "reference": "李芯怡，车阿大，洪兆富，等．考虑回收规制的废旧动力电池回收决策与合作机制设计研究[J/OL]．中国管理科学，2026（在线论文）．DOI: 10.16381/j.cnki.issn1003-207x.2025.0647．https://www.zgglkx.com/CN/10.16381/j.cnki.issn1003-207x.2025.0647",
       "finding": "动态博弈分析强制回收率、单位补贴及成本分担契约的条件性影响。",
       "limit": "部分收益机制含梯次利用假设；须结合2026年7月政策重新解释，模型条件不当作实际阈值。",
       "access": "出版社公开摘要、题录及录用日期",
@@ -624,7 +624,7 @@
       "year": 2025,
       "url": "https://www.sciencedirect.com/science/article/pii/S2666791625000272",
       "doi": "10.1016/j.clpl.2025.100118",
-      "reference": "Losa R, Torjesen S．The quest for more circular battery value chains: Implementing the EU digital battery passport and remaining challenges[J]．Cleaner Production Letters, 2025, 9: 100118．DOI: 10.1016/j.clpl.2025.100118．",
+      "reference": "LOSA R, TORJESEN S. The quest for more circular battery value chains: Implementing the EU digital battery passport and remaining challenges[J]. Cleaner Production Letters, 2025, 9: 100118. DOI: 10.1016/j.clpl.2025.100118. https://www.sciencedirect.com/science/article/pii/S2666791625000272",
       "finding": "基于35名产业相关者访谈及文献政策材料，指出数字护照实施及循环利用信息可得性问题。",
       "limit": "欧洲情境中的定性证据；不能替代中国企业运行数据或量化政策效果。",
       "access": "出版社公开摘要；作者机构记录；Crossref元数据",
@@ -639,7 +639,7 @@
       "year": 2025,
       "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bse.4346",
       "doi": "10.1002/bse.4346",
-      "reference": "Popowicz M, Pohlmann A, Schöggl J P, et al.．Digital Product Passports as Information Providers for Consumers—The Case of Digital Battery Passports[J]．Business Strategy and the Environment, 2025, 34(6): 7700–7722．DOI: 10.1002/bse.4346．",
+      "reference": "POPOWICZ M, POHLMANN A, SCHÖGGL J P, et al. Digital Product Passports as Information Providers for Consumers—The Case of Digital Battery Passports[J]. Business Strategy and the Environment, 2025, 34(6): 7700–7722. DOI: 10.1002/bse.4346. https://onlinelibrary.wiley.com/doi/full/10.1002/bse.4346",
       "finding": "从消费者信息需求与使用视角研究数字电池护照；提示信息呈现需适配使用者。",
       "limit": "技术兴趣较强的论坛自愿参与者限制样本代表性；消费端信息需求不同于监管核查需求。",
       "access": "出版社公开正文片段及摘要；Crossref元数据",
@@ -659,7 +659,7 @@
       "access": "官方全文",
       "status": "方法依据；不作我国现行义务",
       "section": "2.6；4.2.1—4.2.2",
-      "reference": "National Institute of Standards and Technology. EMPIRICAL CDF PLOT[EB/OL]. 更新于2023-05-18[2026-10-19]. https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/ecdfplot.htm",
+      "reference": "National Institute of Standards and Technology. EMPIRICAL CDF PLOT[EB/OL]. 更新于2023-05-18[2026-10-19]．https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/ecdfplot.htm",
       "retrieved": "2026-10-19"
     },
     {
@@ -675,7 +675,7 @@
       "access": "官方全文",
       "status": "方法依据；不作我国现行义务",
       "section": "2.6；4.2.1—4.2.2",
-      "reference": "European Commission, Joint Research Centre. Step 8: Sensitivity analysis[EB/OL]. 更新于2020-12-01[2026-10-19]. https://knowledge-for-policy.ec.europa.eu/composite-indicators/toolkit_en/navigation-page/10-step-guide_en/step-8-sensitivity-analysis_en",
+      "reference": "European Commission, Joint Research Centre. Step 8: Sensitivity analysis[EB/OL]. 更新于2020-12-01[2026-10-19]．https://knowledge-for-policy.ec.europa.eu/composite-indicators/toolkit_en/navigation-page/10-step-guide_en/step-8-sensitivity-analysis_en",
       "retrieved": "2026-10-19"
     },
     {
@@ -995,7 +995,7 @@
       "status": "",
       "section": "2.1",
       "doi": "10.1038/s41427-024-00562-8",
-      "reference": "TEMBO P M, DYER C, SUBRAMANIAN V．Lithium-ion battery recycling—a review of the material supply and policy infrastructure. NPG Asia Materials, 16:43[J]．2024[2026-10-20]．https://doi.org/10.1038/s41427-024-00562-8",
+      "reference": "TEMBO P M, DYER C, SUBRAMANIAN V. Lithium-ion battery recycling—a review of the material supply and policy outlook[J]. NPG Asia Materials, 2024, 16: 43. https://doi.org/10.1038/s41427-024-00562-8",
       "retrieved": "2026-10-20"
     },
     {
@@ -1011,7 +1011,7 @@
       "status": "2025-08-08上线；网页显示2025-09-30更正，使用当前页面",
       "section": "2.3；4.4.2",
       "doi": "10.1038/s44359-025-00095-5",
-      "reference": "SCHLOTT L, GUTSCH M, LEKER J．Cost modelling and key drivers in lithium-ion battery recycling. Nature Reviews Clean Technology, 1:656–670[J]．2025[2026-10-20]．https://doi.org/10.1038/s44359-025-00095-5",
+      "reference": "SCHLOTT L, GUTSCH M, LEKER J. Cost modelling and key drivers in lithium-ion battery recycling[J]. Nature Reviews Clean Technology, 2025, 1: 656–670. https://doi.org/10.1038/s44359-025-00095-5",
       "retrieved": "2026-10-20"
     },
     {
@@ -1043,7 +1043,7 @@
       "status": "",
       "section": "2.1；4.4.4",
       "doi": "10.1038/s41467-025-56063-x",
-      "reference": "MACHALA M L, CHEN X, BUNKE S P, et al.．Life cycle comparison of industrial-scale lithium-ion battery recycling and mining supply chains. Nature Communications, 16:988[J]．2025[2026-10-20]．https://doi.org/10.1038/s41467-025-56063-x",
+      "reference": "MACHALA M L, CHEN X, BUNKE S P, et al. Life cycle comparison of industrial-scale lithium-ion battery recycling and mining supply chains[J]. Nature Communications, 2025, 16: 988. https://doi.org/10.1038/s41467-025-56063-x",
       "retrieved": "2026-10-20"
     },
     {
@@ -1059,7 +1059,7 @@
       "status": "",
       "section": "2.2；4.4.3",
       "doi": "10.1038/s41467-025-61481-y",
-      "reference": "ZHANG B, XIN Q, CHEN S, et al.．Lithium-ion battery recycling relieves the threat to material scarcity amid China’s electric vehicle ambitions. Nature Communications, 16:6661[J]．2025[2026-10-20]．https://doi.org/10.1038/s41467-025-61481-y",
+      "reference": "ZHANG B, XIN Q, CHEN S, et al. Lithium-ion battery recycling relieves the threat to material scarcity amid China’s electric vehicle ambitions[J]. Nature Communications, 2025, 16: 6661. https://doi.org/10.1038/s41467-025-61481-y",
       "retrieved": "2026-10-20"
     },
     {
@@ -1201,7 +1201,7 @@
       "finding": "2020—2022年新能源汽车产销及占比，用于扩展图1。",
       "limit": "完整年度、行业口径；不能直接推为退役量。",
       "section": "1.1；图1",
-      "reference": "工业和信息化部装备工业一司．2020年12月汽车工业经济运行情况[EB/OL]．(2021-01-14)[2026-10-20]．",
+      "reference": "工业和信息化部装备工业一司．2020年12月汽车工业经济运行情况[EB/OL]．(2021-01-14)[2026-10-20]．https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2021/art_80a68716879e4180a0dea39183b546cf.html",
       "doi": "",
       "status": "完整年度历史统计",
       "date": "2021-01-14",
@@ -1220,7 +1220,7 @@
       "finding": "2020—2022年新能源汽车产销及占比，用于扩展图1。",
       "limit": "完整年度、行业口径；不能直接推为退役量。",
       "section": "1.1；图1",
-      "reference": "国际科技创新中心网络服务平台（转载工信微报实录）．工信部举行2021年汽车工业发展情况新闻发布会（附实录）[EB/OL]．(2022-01-13)[2026-10-20]．",
+      "reference": "国际科技创新中心网络服务平台（转载工信微报实录）．工信部举行2021年汽车工业发展情况新闻发布会（附实录）[EB/OL]．(2022-01-13)[2026-10-20]．https://www.ncsti.gov.cn/kjdt/xwjj/202201/t20220113_55954.html",
       "doi": "",
       "status": "完整年度历史统计",
       "date": "2022-01-13",
@@ -1239,7 +1239,7 @@
       "finding": "2020—2022年新能源汽车产销及占比，用于扩展图1。",
       "limit": "完整年度、行业口径；不能直接推为退役量。",
       "section": "1.1；图1",
-      "reference": "福建省工业和信息化厅（转载新华社）．2022年我国汽车销量超2686万辆 新能源汽车销量同比增长93.4%[EB/OL]．(2023-01-13)[2026-10-20]．",
+      "reference": "福建省工业和信息化厅（转载新华社）．2022年我国汽车销量超2686万辆 新能源汽车销量同比增长93.4%[EB/OL]．(2023-01-13)[2026-10-20]．https://gxt.fujian.gov.cn/zwgk/xw/hydt/xydt/202301/t20230113_6093871.htm",
       "doi": "",
       "status": "完整年度历史统计",
       "date": "2023-01-13",
@@ -1258,7 +1258,7 @@
       "finding": "局部效率改进较多；工艺标准化、自动化和持续改进的系统整合不足",
       "limit": "检索截至2024-12-06，部分研究局限手工或半自动过程；不提供我国网点入库率或贮存期限",
       "section": "2.1；4.4.2—4.4.3",
-      "reference": "Bräunig G, Hertel D, Thürer M．Towards recycling excellence: a systematic review of applied lean methods within the disassembly of electric vehicle battery systems[J]．Journal of Material Cycles and Waste Management, 2025, 27: 4127–4142．",
+      "reference": "BRÄUNIG G, HERTEL D, THÜRER M. Towards recycling excellence: a systematic review of applied lean methods within the disassembly of electric vehicle battery systems[J]. Journal of Material Cycles and Waste Management, 2025, 27: 4127–4142. https://doi.org/10.1007/s10163-025-02368-4",
       "doi": "10.1007/s10163-025-02368-4",
       "status": "研究文献；见核验层级",
       "date": "2025-08-26",
@@ -1277,7 +1277,7 @@
       "finding": "粒级及流股组成不同，互补分析有助于建立处理效率与目标成分的计量基础",
       "limit": "研究对象是特定滑板车破碎料；不是我国新能源汽车总体样本，不构成实际社会回收率",
       "section": "2.1；4.4.2—4.4.3",
-      "reference": "Anticoi H, Garcia L, Dan G, Sola P, Dorado A D．Methodology for evaluation of lithium-ion black-mass battery recycling[J]．Journal of Material Cycles and Waste Management, 2025, 27: 1019–1033．",
+      "reference": "ANTICOI H, GARCIA L, DAN G, SOLA P, DORADO A D. Methodology for evaluation of lithium-ion black-mass battery recycling[J]. Journal of Material Cycles and Waste Management, 2025, 27: 1019–1033. https://doi.org/10.1007/s10163-025-02159-x",
       "doi": "10.1007/s10163-025-02159-x",
       "status": "研究文献；见核验层级",
       "date": "2025-02-06",
@@ -1295,1110 +1295,104 @@
       "access": "官方标准全文，第7.4.1—7.4.5节",
       "finding": "区分事件发生时间与EPCIS资料库记录时间，提供对象、聚合及投入产出转换事件结构。",
       "limit": "技术互操作参照，不构成我国动力电池强制报送格式；recordTime不等同法定报送时间。",
-      "reference": "GS1. EPCIS Standard Release 2.0[S/OL]. Jun 2022[2026-10-20]. https://ref.gs1.org/standards/epcis/2.0.0/ .",
+      "reference": "GS1. EPCIS Standard Release 2.0[S/OL]. Jun 2022[2026-10-20]. https://ref.gs1.org/standards/epcis/2.0.0/ . Sections 7.4.1—7.4.5.",
       "retrieved": "2026-10-20",
       "section": "4.1.3"
+    },
+    {
+      "id": "P25",
+      "kind": "宏观政策",
+      "author": "中共中央、国务院",
+      "title": "关于加快经济社会发展全面绿色转型的意见",
+      "year": 2024,
+      "url": "https://www.miit.gov.cn/xwdt/szyw/art/2024/art_26e3e5b149704f3a90dd6ca8be94e6ba.html",
+      "access": "发布机构转载新华社全文；成文2024-07-31，公开2024-08-11",
+      "finding": "提出全面节约、资源循环利用和数字化绿色化协同发展，为研究回收责任及信息衔接提供宏观政策背景。",
+      "limit": "宏观政策方向，不替代动力电池具体主体、事件、期限及设施适用规则。",
+      "reference": "中共中央, 国务院. 关于加快经济社会发展全面绿色转型的意见[EB/OL]. (2024-07-31)[2026-10-21]. https://www.miit.gov.cn/xwdt/szyw/art/2024/art_26e3e5b149704f3a90dd6ca8be94e6ba.html",
+      "retrieved": "2026-10-21",
+      "section": "1.1",
+      "status": "政策背景"
     }
   ],
   "cutoff": "2026-10-20",
-  "sales": [
-    {
-      "year": 2020,
-      "production": 136.6,
-      "sales": 136.7,
-      "share": 0.054008138753901466,
-      "source": "D04"
-    },
-    {
-      "year": 2021,
-      "production": 354.5,
-      "sales": 352.1,
-      "share": 0.134,
-      "source": "D05"
-    },
-    {
-      "year": 2022,
-      "production": 705.8,
-      "sales": 688.7,
-      "share": 0.256,
-      "source": "D06"
-    },
-    {
-      "year": 2023,
-      "production": 958.7,
-      "sales": 949.5,
-      "share": 0.316,
-      "source": "D01"
-    },
-    {
-      "year": 2024,
-      "production": 1288.8,
-      "sales": 1286.6,
-      "share": 0.409,
-      "source": "D02"
-    },
-    {
-      "year": 2025,
-      "production": 1662.6,
-      "sales": 1649,
-      "share": 0.479,
-      "source": "P11"
-    }
-  ],
-  "deadlines": [
-    [
-      "汽车生产企业",
-      "出厂合格证配发或通关检验",
-      "车辆与电池编码",
-      20,
-      "第24条第2项"
-    ],
-    [
-      "汽车生产企业",
-      "车辆销售上牌",
-      "销售日期等",
-      40,
-      "第24条第2项"
-    ],
-    [
-      "合作维修企业→车企",
-      "电池维修并更换",
-      "更换信息",
-      15,
-      "第24条第5项"
-    ],
-    [
-      "车企→平台",
-      "电池更换",
-      "更换信息",
-      40,
-      "第24条第5项"
-    ],
-    [
-      "非合作维修企业→平台",
-      "电池维修并更换",
-      "更换信息",
-      40,
-      "第24条第5项"
-    ],
-    [
-      "电池企业或车企",
-      "网点设立或变更",
-      "网点信息",
-      30,
-      "第24条第6项"
-    ],
-    [
-      "电池企业或车企",
-      "回收废旧动力电池",
-      "入库信息",
-      15,
-      "第24条第6项"
-    ],
-    [
-      "电池企业或车企",
-      "相关电池或产品移交出库",
-      "出库信息",
-      15,
-      "第24条第6项"
-    ],
-    [
-      "综合利用企业",
-      "接收废旧动力电池",
-      "入库信息",
-      30,
-      "第24条第7项"
-    ],
-    [
-      "综合利用企业",
-      "综合利用产品移交出库",
-      "出库信息",
-      30,
-      "第24条第7项"
-    ]
-  ],
-  "literature_review": [
-    {
-      "id": "L01",
-      "author": "危浪，王翠霞",
-      "year": 2023,
-      "method": "系统动力学与演化博弈",
-      "sample": "理论模型及数值模拟；本次未核实全部参数",
-      "outcome": "监管与企业策略相互作用",
-      "finding": "用系统动力学与演化博弈讨论回收监管策略。",
-      "limitation": "模型结论依赖假设及参数；本稿不引用未核实的具体阈值。",
-      "response": "用于解释收益与约束共同影响责任履行；不引用模型阈值",
-      "access": "期刊题录与摘要；未得全文",
-      "section": "2.3"
-    },
-    {
-      "id": "L02",
-      "author": "Huang X, Lei S, Liu F, et al.",
-      "year": 2024,
-      "method": "离散选择实验",
-      "sample": "中国重庆1190名消费者；公开摘要",
-      "outcome": "正规回收偏好与支付意愿",
-      "finding": "重庆1190份样本的离散选择研究关注价格、回收便利性和可追溯性。",
-      "limitation": "地区样本和陈述偏好不能直接当全国真实交投行为。",
-      "response": "将服务便利、透明度纳入配套建议；不开展新问卷",
-      "access": "PubMed正式题录与摘要；未得全文",
-      "section": "2.3"
-    },
-    {
-      "id": "L03",
-      "author": "冯章伟，杜碧升，于志勇，牟善栋",
-      "year": 2025,
-      "method": "回收与溯源投入的博弈模型",
-      "sample": "理论情境；出版社公开摘要",
-      "outcome": "技术投入、信任及渠道收益关系",
-      "finding": "用供应链博弈讨论溯源技术投入与信任、成本条件的关系。",
-      "limitation": "不能把模型中信任提高直接等同实际回收率上升；区块链不保证源头真实。",
-      "response": "区分技术防篡改与原始信息真实性",
-      "access": "期刊当期目录及摘要；未得全文",
-      "section": "2.4"
-    },
-    {
-      "id": "L04",
-      "author": "Ge M, Wu C",
-      "year": 2026,
-      "method": "四方演化博弈",
-      "sample": "含消费者行为偏好和非正规回收者；公开摘要",
-      "outcome": "多主体策略演化与渠道竞争",
-      "finding": "四方博弈将消费者偏好与非正规回收者纳入分析。",
-      "limitation": "策略稳定条件具有模型依赖性；未直接检验2026新规效果。",
-      "response": "解释渠道选择条件；不推算现实非正规渠道占比",
-      "access": "出版商题录与摘要；未得全文",
-      "section": "2.3"
-    },
-    {
-      "id": "L05",
-      "author": "田西，袁可欣，温湖炜，刘耀彬",
-      "year": 2025,
-      "method": "双重差分及稳健性检验",
-      "sample": "2013—2022年220个城市；已核对公开PDF",
-      "outcome": "试点政策的技术创新效应（专利）",
-      "finding": "2013—2022年220城面板，以双重差分研究试点政策与回收专利。",
-      "limitation": "专利衡量创新产出，不代表回收量、真实回收率或污染减排；样本止于2022年。",
-      "response": "区分创新、履行过程与资源环境结果；不移用至2026新规",
-      "access": "学会提供正式全文PDF",
-      "section": "2.2"
-    },
-    {
-      "id": "L06",
-      "author": "Harper G, Sommerville R, Kendrick E, et al.",
-      "year": 2019,
-      "method": "技术路线与回收系统综述",
-      "sample": "电动汽车锂离子电池回收与再利用研究；摘要",
-      "outcome": "材料、拆解及回收路线",
-      "finding": "评述电动汽车锂电池回收与再利用技术路线和难点。",
-      "limitation": "技术综述不直接评估中国当前责任制度的执行。",
-      "response": "把必要技术信息与主体责任相联系",
-      "access": "出版商与PubMed题录及摘要；未得全文",
-      "section": "2.1"
-    },
-    {
-      "id": "L07",
-      "author": "Chacana-Olivares J, Peceño B, Grageda M, et al.",
-      "year": 2025,
-      "method": "技术经济与治理挑战评述",
-      "sample": "公开全文及原Fig.1；国际技术语境",
-      "outcome": "设计、拆解、成本与监管分散",
-      "finding": "讨论设计拆解、经济约束及监管分散问题；图1为价值链概念图。",
-      "limitation": "全球技术示意，非中国2026年法规；原图中的梯次用途、填埋均非本文合规建议。",
-      "response": "理解工程约束；原图完整转载并标明许可与制度边界",
-      "access": "出版商全文；原图与许可核验",
-      "section": "2.1"
-    },
-    {
-      "id": "L08",
-      "author": "Zhang Z, Gu J, Li R, et al.",
-      "year": 2026,
-      "method": "数字产品护照系统文献综述",
-      "sample": "186篇文献；跨行业；公开摘要/索引",
-      "outcome": "系统架构、技术与应用",
-      "finding": "综述186篇文献，讨论数字产品护照系统的技术、架构与跨行业应用。",
-      "limitation": "跨行业系统综述不等于中国动力电池回收效果评估；不据此推荐单一技术。",
-      "response": "用于识别互操作与数据治理问题；不代表中国运行效果",
-      "access": "出版社公开摘要/索引；Crossref元数据核验",
-      "section": "2.4"
-    },
-    {
-      "id": "L09",
-      "author": "Soavi F, Gregucci A, Liverani A, et al.",
-      "year": 2026,
-      "method": "法规与数字电池护照评述",
-      "sample": "欧盟电池法规语境；公开摘要/索引",
-      "outcome": "制度前景与实施挑战",
-      "finding": "评述欧盟电池法规与数字护照的制度和实施挑战。",
-      "limitation": "欧盟制度语境；未作为中国现行义务依据；不据评述推断实际绩效。",
-      "response": "比较数据治理；不作为中国现行义务依据",
-      "access": "出版社公开摘要/索引；Crossref元数据核验",
-      "section": "2.4"
-    },
-    {
-      "id": "L10",
-      "author": "高文芳，王嘉庆，王忠强，等",
-      "year": 2024,
-      "method": "国家及地方政策现状比较",
-      "sample": "年份、地区与政策关注点；公开摘要及图表",
-      "outcome": "政策供给的结构与差异",
-      "finding": "国家及地方政策的年份、区域和关注点比较；提出政策完善原则。",
-      "limitation": "政策分布与重点分析不直接测量企业履行；研究早于2026年调整。",
-      "response": "在政策梳理基础上补充2026效力核对与交接事件",
-      "access": "出版社题录、摘要及公开图表",
-      "section": "2.2"
-    },
-    {
-      "id": "L11",
-      "author": "Liu F, Tang J, Rustam A, et al.",
-      "year": 2023,
-      "method": "文本挖掘与PMC指数评价",
-      "sample": "2016—2022年；中央13项、地方25项政策",
-      "outcome": "政策文本结构及中央地方一致性",
-      "finding": "文本挖掘与PMC指数评价2016—2022年13项中央、25项地方政策，关注中央地方一致性。",
-      "limitation": "文本评价受指标编码与赋权影响，不能直接说明回收实物、溯源数据或因果效果。",
-      "response": "不重做未经复核的综合评分；以条款矩阵保障可追溯",
-      "access": "出版社公开摘要/索引；Crossref元数据",
-      "section": "2.2"
-    },
-    {
-      "id": "L12",
-      "author": "李芯怡，车阿大，洪兆富，等",
-      "year": 2026,
-      "method": "动态博弈与成本分担契约分析",
-      "sample": "强制回收率、单位补贴、合作契约；公开摘要",
-      "outcome": "规制与合作的条件性收益",
-      "finding": "动态博弈分析强制回收率、单位补贴及成本分担契约的条件性影响。",
-      "limitation": "部分收益机制含梯次利用假设；须结合2026年7月政策重新解释，模型条件不当作实际阈值。",
-      "response": "联系2026年7月调整重审梯次收益假设；不移用模型阈值",
-      "access": "出版社公开摘要、题录及录用日期",
-      "section": "2.3"
-    },
-    {
-      "id": "L13",
-      "author": "Losa R, Torjesen S",
-      "year": 2025,
-      "method": "相关者访谈及文献政策分析",
-      "sample": "35名产业相关者；欧洲；公开摘要及机构记录",
-      "outcome": "数字电池护照实施与信息可得性",
-      "finding": "基于35名产业相关者访谈及文献政策材料，指出数字护照实施及循环利用信息可得性问题。",
-      "limitation": "欧洲情境中的定性证据；不能替代中国企业运行数据或量化政策效果。",
-      "response": "围绕具体决策确定必要信息；不转写为中国政策实测",
-      "access": "出版社公开摘要；作者机构记录；Crossref元数据",
-      "section": "2.4"
-    },
-    {
-      "id": "L14",
-      "author": "Popowicz M, Pohlmann A, Schöggl J P, et al.",
-      "year": 2025,
-      "method": "消费者信息需求与护照使用研究",
-      "sample": "技术兴趣较强的论坛自愿参与者；本次未核实样本量",
-      "outcome": "消费端信息供给与使用",
-      "finding": "从消费者信息需求与使用视角研究数字电池护照；提示信息呈现需适配使用者。",
-      "limitation": "技术兴趣较强的论坛自愿参与者限制样本代表性；消费端信息需求不同于监管核查需求。",
-      "response": "区分公众查询、业务使用和监管核查；保留样本边界",
-      "access": "出版社公开正文片段及摘要；Crossref元数据",
-      "section": "2.4"
-    },
-    {
-      "id": "L15",
-      "author": "Adewumi等",
-      "year": 2026,
-      "method": "合成基准；22种语言模型分类比较",
-      "sample": "12000条由试点护照生成的合成记录",
-      "outcome": "数字电池护照格式/符合性分类",
-      "finding": "将护照符合性转为可比较的模型任务，提示字段及一致性校验的可研究性。",
-      "limitation": "预印本；合成数据并非中国企业事件；自动分类不能替代实物核验。",
-      "response": "自动校验先用于字段与逻辑，时限及真实流向仍依条款和业务凭证核查",
-      "access": "作者预印本全文；未核实期刊发表",
-      "section": "2.4；5.6"
-    },
-    {
-      "id": "L16",
-      "author": "TEMBO P M, DYER C, SUBRAMANIAN V",
-      "year": 2024,
-      "method": "技术—经济—政策综述",
-      "sample": "见原文研究边界；本研究核验层级：公开全文及Fig.7；图注与CC BY 4.0核验",
-      "outcome": "工程操作与系统评价",
-      "finding": "比较回收工艺、经济与政策；Fig.7给出直接再生流程示例。",
-      "limitation": "跨地区综述及示意图不能确定中国当前合法用途，也不能代替工厂能耗清单。",
-      "response": "将参数对应至国标或地方标准，分别设置来源、边界与情景值；模型保持可复算。",
-      "access": "公开全文及Fig.7；图注与CC BY 4.0核验",
-      "section": "2.1"
-    },
-    {
-      "id": "L17",
-      "author": "SCHLOTT L, GUTSCH M, LEKER J",
-      "year": 2025,
-      "method": "回收成本模型综述",
-      "sample": "见原文研究边界；本研究核验层级：出版社题录、摘要与公开要点",
-      "outcome": "工程操作与系统评价",
-      "finding": "成本综述发现运输、拆解与资本投入等口径遗漏影响路线比较。",
-      "limitation": "本次使用公开摘要与要点；不移植其成本区间为中国本地回收价格。",
-      "response": "将参数对应至国标或地方标准，分别设置来源、边界与情景值；模型保持可复算。",
-      "access": "出版社题录、摘要与公开要点",
-      "section": "2.3；4.11"
-    },
-    {
-      "id": "L18",
-      "author": "谢红伟, 时玮, 陈诗荣, 等",
-      "year": 2025,
-      "method": "模型—测试—算法方法综述",
-      "sample": "见原文研究边界；本研究核验层级：期刊官网摘要、公开图表及题录",
-      "outcome": "工程操作与系统评价",
-      "finding": "从模型—测试—算法讨论容量、内阻、一致性等特征及效率—精度权衡。",
-      "limitation": "本文只采用方法分类；原综述表中的标准归属与数字须回查标准，不作为新模型阈值。",
-      "response": "将参数对应至国标或地方标准，分别设置来源、边界与情景值；模型保持可复算。",
-      "access": "期刊官网摘要、公开图表及题录",
-      "section": "2.1；4.10"
-    },
-    {
-      "id": "L19",
-      "author": "MACHALA M L, CHEN X, BUNKE S P, et al.",
-      "year": 2025,
-      "method": "工业运营数据及生命周期比较",
-      "sample": "见原文研究边界；本研究核验层级：出版社开放全文",
-      "outcome": "工程操作与系统评价",
-      "finding": "以工业运营数据、同功能单位比较再生与原生供应；用电来源影响环境表现。",
-      "limitation": "美国特定企业2021运营边界和NCA当量功能单位不能直接替代中国2026每吨进料排放。",
-      "response": "将参数对应至国标或地方标准，分别设置来源、边界与情景值；模型保持可复算。",
-      "access": "出版社开放全文",
-      "section": "2.1；4.13"
-    },
-    {
-      "id": "L20",
-      "author": "ZHANG B, XIN Q, CHEN S, et al.",
-      "year": 2025,
-      "method": "中国情景、物质流与区位经济环境综合模型",
-      "sample": "见原文研究边界；本研究核验层级：出版社开放全文",
-      "outcome": "工程操作与系统评价",
-      "finding": "连接中国电动车发展、材料需求、收集率、区位与经济环境结果。",
-      "limitation": "长期情景中的收集目标不属于当前法定要求；宏观结果不能替代网点周转校核。",
-      "response": "将参数对应至国标或地方标准，分别设置来源、边界与情景值；模型保持可复算。",
-      "access": "出版社开放全文",
-      "section": "2.2；4.12"
-    },
-    {
-      "id": "L21",
-      "method": "PRISMA系统综述；31篇拆解与精益管理研究",
-      "finding": "局部效率改进较多；工艺标准化、自动化和持续改进的系统整合不足",
-      "limitation": "检索截至2024-12-06，部分研究局限手工或半自动过程；不提供我国网点入库率或贮存期限",
-      "response": "把周转周期、容量与时间准备参数分开，比较明确扰动对当前约束的影响；不直接移植其样本计数作为政策效应",
-      "author": "Bräunig等（2025）",
-      "year": 2025,
-      "sample": "31篇科学文献（检索截至2024-12-06）",
-      "outcome": "拆解效率与工业实施衔接",
-      "access": "出版商开放全文，CC BY 4.0",
-      "section": "2.1"
-    },
-    {
-      "id": "L22",
-      "method": "退役滑板车电池破碎物的XRF/XRD/LOI/AAS等互补表征与物理分选评价",
-      "finding": "粒级及流股组成不同，互补分析有助于建立处理效率与目标成分的计量基础",
-      "limitation": "研究对象是特定滑板车破碎料；不是我国新能源汽车总体样本，不构成实际社会回收率",
-      "response": "支持按目标元素一致计量进入比例与工序回收率，并用完整Fig.9说明分母和物料差异",
-      "author": "Anticoi等（2025）",
-      "year": 2025,
-      "sample": "特定滑板车电池破碎料及其粒级/分选流股",
-      "outcome": "物料成分与流程效率评价",
-      "access": "出版商开放全文，CC BY 4.0",
-      "section": "2.1"
-    }
-  ],
-  "outlook": [
-    [
-      "R01",
-      "配套细则与政策版本",
-      "数字身份证如何落实为字段、权限与更新规则",
-      "工信部等正式文件；9月标准体系草案及后续正式稿",
-      "版本比较；主体—事件—字段编码",
-      "政策差异表与事件字典",
-      "可直接以公开资料推进",
-      "P09；P17；P18；I01",
-      "6.2第1段",
-      "规则尚未公布部分保留待定，不补写技术细则"
-    ],
-    [
-      "R02",
-      "地方实施比较",
-      "国家要求如何转化为地区服务与部门协作",
-      "湖南、北京及10月地方执行公告；后续监管通报",
-      "目的性样本；统一编码；逐项核对公开程度",
-      "地区政策对照与问题清单",
-      "可公开资料研究；资料缺失须单列",
-      "P19；P20；P22；P23",
-      "6.2第2段",
-      "公开不足不直接视为政策缺位"
-    ],
-    [
-      "R03",
-      "交接信息可核验性",
-      "未匹配来自时间差、识别错误还是待核查行为",
-      "匿名化流转记录；不足时先用公开案例",
-      "分类对账；时滞边际分布与依赖结构校准；有时间戳后处理右删失",
-      "报送时效、匹配规则及经真实事件检验的窗口模型",
-      "需可靠记录；可先公开案例检验",
-      "P09；L03；L13",
-      "6.2第3段",
-      "没有时间戳不拟合真实分布；情景概率不作违规率；预警不等于违法"
-    ],
-    [
-      "R04",
-      "政策效果识别",
-      "规则是否改变合规交投及资源环境结果",
-      "可比地区/企业长期数据、政策差异、同期政策",
-      "具备条件再用准实验；否则描述性追踪",
-      "限定识别条件的效果评估或趋势分析",
-      "无需现场调查；因果研究依赖数据条件",
-      "L05；P09",
-      "6.2第4段",
-      "全国统一施行不自动提供适当对照组"
-    ],
-    [
-      "R05",
-      "技术经济异质性",
-      "哪些成本可经信息与设计改进降低",
-      "公开专利、企业定期报告、工艺与环境评价文献",
-      "专利功能拆解；中试证据比较；成本与质量边界核查",
-      "分电池体系/工艺的条件性政策解释",
-      "公开资料可先研究；不确定项保留范围",
-      "K01；K02；K03；K04；P19",
-      "6.2第5段",
-      "区分实际数据、文献参数与假设"
-    ],
-    [
-      "R06",
-      "国际兼容及环境边界",
-      "数据互操作如何连接实际资源环境评价",
-      "欧盟法规、官方技术项目、公开标准及LCA文献",
-      "字段语义与权限比较；统一功能单位及核算边界",
-      "制度差异表；边界明确的环境评价",
-      "可资料研究；量化前核对数据可比性",
-      "I01；I02；L08；L09",
-      "6.2第6段",
-      "信息互通、材料回收和环境受益分别测量"
-    ]
-  ],
-  "patent_review": [
-    {
-      "id": "K01",
-      "publication": "CN121391285A",
-      "priority": "2025-09-05",
-      "filing": "2025-09-05",
-      "published": "2026-01-23",
-      "title": "护照版本与字段校验",
-      "claims": "1、3、6、7",
-      "mechanism": "唯一标识绑定；模板及版本化维护",
-      "gap": "接口、数据真实性及模型参数需验证",
-      "policy": "P09第9—12、24条；P17第5项",
-      "validation": "多源字段追溯、版本更正、接口及原始凭证核验",
-      "code": [
-        "权",
-        "权",
-        "—",
-        "—",
-        "—"
-      ],
-      "loc": [
-        "权利要求1、3",
-        "权利要求1、6、7",
-        "未在选读范围编码",
-        "未在选读范围编码",
-        "未在选读范围编码"
-      ]
-    },
-    {
-      "id": "K02",
-      "publication": "CN121810320A",
-      "priority": "2026-03-10",
-      "filing": "2026-03-10",
-      "published": "2026-04-07",
-      "title": "电芯—槽位—更换事件",
-      "claims": "1、4",
-      "mechanism": "静态身份/动态指针；更换事件保留",
-      "gap": "对制造追溯的设计仍需接入回收交付事件",
-      "policy": "P09第9—11、20、24条",
-      "validation": "拆包、更换、组合对象对应关系及回收交付记录",
-      "code": [
-        "权",
-        "权",
-        "—",
-        "—",
-        "—"
-      ],
-      "loc": [
-        "权利要求1",
-        "权利要求4",
-        "未在选读范围编码",
-        "未在选读范围编码",
-        "未在选读范围编码"
-      ]
-    },
-    {
-      "id": "K03",
-      "publication": "CN120077396A",
-      "priority": "2023-11-24",
-      "filing": "2024-11-24",
-      "published": "2025-05-30",
-      "title": "元素再生料占比核算",
-      "claims": "1、5",
-      "mechanism": "来源物料、采集周期及系统边界",
-      "gap": "来源凭证、损失分配与交叉审计；不直接生成减碳量",
-      "policy": "P19第11、17项；P18核查核算方向",
-      "validation": "元素质量平衡、盘存、损失及重复计算核查",
-      "code": [
-        "—",
-        "—",
-        "—",
-        "权",
-        "—"
-      ],
-      "loc": [
-        "未在选读范围编码",
-        "未在选读范围编码",
-        "未在选读范围编码",
-        "权利要求1、5",
-        "未在选读范围编码"
-      ]
-    },
-    {
-      "id": "K04",
-      "publication": "US20250132404A1",
-      "priority": "2021-12-21",
-      "filing": "2022-12-19",
-      "published": "2025-04-24",
-      "title": "实物标识与受控访问",
-      "claims": "1、5、10；说明书图14",
-      "mechanism": "实物标识绑定去中心化标识；授权访问",
-      "gap": "跨主体身份映射与本地权限规则需验证",
-      "policy": "P09第9—12、25—26条",
-      "validation": "标签实物一致性、授权撤销、最小必要查询",
-      "code": [
-        "权",
-        "—",
-        "说",
-        "—",
-        "—"
-      ],
-      "loc": [
-        "权利要求1、5、10",
-        "未在选读范围编码",
-        "说明书图14授权访问段",
-        "未在选读范围编码",
-        "未在选读范围编码"
-      ]
-    }
-  ],
-  "policy_update": [
-    {
-      "id": "P17",
-      "title": "智能网联新能源汽车产业发展“十五五”规划（工信部联规函〔2026〕305号）",
-      "kind": "国家产业规划",
-      "status": "2026-09-09成文；09-10公开；正式产业规划",
-      "finding": "将关键矿产循环利用、数字身份证、碳足迹管理和高价值专利组合等纳入产业任务；正文第2、3、5项及专栏2。",
-      "limit": "规划任务不等于全部技术细则已发布或任务已完成。",
-      "date": "2026-09-09",
-      "url": "https://wap.miit.gov.cn/jgsj/zbys/wjfb/art/2026/art_6136a59a8ff04922b7c73ddbc575434e.html"
-    },
-    {
-      "id": "P18",
-      "title": "动力电池回收利用产业标准体系建设指南（2026版）（征求意见稿）及公示",
-      "kind": "标准体系征求意见稿",
-      "status": "征求意见时段已过；截至10-20按已核验的征求意见稿使用",
-      "finding": "提出基础通用、收集分类、物理处理、化学处理、综合利用产品、绿色低碳六部分；含标识溯源与核算核查。",
-      "limit": "仅为征求意见稿；公示正文期限至10-15，栏目元数据列10-14，按正文记录并保留差异；本次未核实正式稿。",
-      "date": "2026-09-15",
-      "url": "https://www.miit.gov.cn/jgsj/kjs/jscx/bzgf/art/2026/art_4c8055c61f234cff8c100574c1ab709b.html"
-    },
-    {
-      "id": "P19",
-      "title": "北京市关于鼓励废动力电池回收利用企业规范健康发展的若干措施（京发改〔2026〕1572号）",
-      "kind": "地方配套措施",
-      "status": "原文09-18成文/实施；09-22公开；官网列现行有效",
-      "finding": "第3项中试，第7项网点，第11项再生材料认证应用，第14项数据共享，第17项碳足迹方法研究等。",
-      "limit": "属北京地方措施；不将条件性支持泛化为全国统一补助；解读写09-20，原文件落款及元数据09-18，本稿按原文。",
-      "date": "2026-09-18",
-      "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202609/t20260922_4875565.htm"
-    },
-    {
-      "id": "P20",
-      "title": "关于做好新能源汽车废旧动力电池回收和综合利用常态化监管工作的通知",
-      "kind": "地方常态监管通知",
-      "status": "07-28落款；07-30公开；地方工作要求",
-      "finding": "清单台账、溯源报送、部门移送、定期检查及上年度工作情况报送等常态化安排。",
-      "limit": "属于工作部署，不是整改完成率或执法效果统计。",
-      "date": "2026-07-28",
-      "url": "https://gxt.hunan.gov.cn/gxt/xxgk_71033/tzgg/202607/t20260730_34036435.html"
-    },
-    {
-      "id": "P21",
-      "title": "中华人民共和国生态环境法典",
-      "kind": "国家法律",
-      "status": "03-12通过公布；08-15施行；司法部平台全文",
-      "finding": "第1242条规定2026-08-15施行，并废止原环境保护法、环评法、固废污染环境防治法等十部法律。",
-      "limit": "本次用于更新法源时间边界，不据此推断全部下位规则自动失效或追溯适用。",
-      "date": "2026-03-12",
-      "url": "https://legalinfo.moj.gov.cn/pub/sfbzhfx/zt/2026zt0106/xxxcsthjfd20260817/sthjfd20260817/202608/t20260818_538611.html"
-    },
-    {
-      "id": "P22",
-      "title": "关于开展报废机动车非法回收拆解专项整治行动的通知（商办消费函〔2026〕346号）",
-      "kind": "国家专项整治方案",
-      "status": "06-18成文；06-24公开；10月处巩固提升阶段",
-      "finding": "整治任务包含动力电池违规交售、拒报及虚假溯源；6—10月分阶段，10月为巩固提升，11月底前总结。",
-      "limit": "与4—6月动力电池专项行动是不同部署；时点10-20尚不能把总结任务当作已发布成效。",
-      "date": "2026-06-18",
-      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_58f3c70ea4bd4ca3a450ba2ca4049efa.html"
-    },
-    {
-      "id": "P23",
-      "title": "关于公开征集报废机动车非法回收拆解违法违规问题线索的公告",
-      "kind": "地方执行公告",
-      "status": "10-10发布；征集至10-31；10-20仍在公告期",
-      "finding": "将新能源汽车动力电池违规外流处置、零部件台账缺失等纳入线索范围，征集至10-31。",
-      "limit": "用于说明10月仍有执行安排，公告不是核查属实结果或违法发生率。",
-      "date": "2026-10-10",
-      "url": "https://www.quannan.gov.cn/qnxrmzfwyyh/c104951/202610/8d845e17284d475399907db731ac0ef0.shtml"
-    },
-    {
-      "id": "P24",
-      "title": "北京市电动自行车废锂电池回收利用管理办法（试行）（京经信发〔2026〕42号）",
-      "kind": "地方相关领域规则",
-      "status": "正文落款09-10；栏目元数据09-11；页面路径09-14；10-01实施",
-      "finding": "第26条规定10-01实施；鼓励与废动力电池集中贮存网点共享共用。",
-      "limit": "适用对象为电动自行车废锂电池；网点共用不改变新能源汽车废旧动力电池禁用领域要求。",
-      "date": "2026-09-10",
-      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202609/t20260914_4862708.html"
-    },
-    {
-      "id": "B03",
-      "title": "一批退役动力电池拍卖交易公告（河南省公共资源交易中心刊载）",
-      "kind": "公开交易场景",
-      "status": "10-16发布；10-16—25公告期；10-26拟拍卖",
-      "finding": "竞买要求含平台注册及成交后编码、流向变更与报送；并列运输、贮存等条件。",
-      "limit": "发行人为拍卖公司、标的在哈密，网站刊载不等于全国政策；拍卖定于10-26，10-20尚无成交与履行结果。",
-      "date": "2026-10-16",
-      "url": "https://hnsggzyjy.henan.gov.cn/jyxx/002003/002003001/20261016/062d6d63-6f08-442c-96b7-b1a7b7ea62c2.html"
-    }
-  ],
-  "logic_audit": [
-    [
-      "问题与现实意义",
-      "1.1—1.3",
-      "产业背景→研究问题→公开资料方法",
-      "图1及P09",
-      "销量不换算退役量"
-    ],
-    [
-      "前人工作与不足",
-      "2.1—2.6",
-      "技术/政策/行为/数字研究→贡献与边界→本文回应",
-      "20项研究评述；表1",
-      "预印本与同行评审资料分开"
-    ],
-    [
-      "历史演进与最新政策",
-      "3.1—3.4",
-      "2018起点→2026变化→截至10-20的最新安排→事件框架",
-      "表2；政策更新",
-      "国家、地方、草案和案例分别定性"
-    ],
-    [
-      "分析与定量解释",
-      "4.1—4.13",
-      "责任→信息→时滞→专利→标准约束→资源与环境",
-      "图5—14；表3—8；式1—11",
-      "标准参数与情景输入、企业碳账与生命周期减排分开"
-    ],
-    [
-      "建议与实施",
-      "5.1—5.6",
-      "交接、服务、指标、分层实施、时间核查、技术验证",
-      "表9；标准与专利",
-      "每项建议有前文问题与依据"
-    ],
-    [
-      "结论与展望",
-      "6.1—6.2",
-      "主要发现→局限→可执行研究方向",
-      "研究展望",
-      "不编造问卷、参与或实际效果"
-    ]
-  ],
-  "standards": [
-    {
-      "id": "S05",
-      "code": "GB/T 44132—2024",
-      "title": "车用动力电池回收利用 通用要求",
-      "published": "2024-05-28",
-      "effective": "2024-05-28",
-      "kind": "国家推荐性标准",
-      "feature": "回收全流程及引用体系",
-      "access": "官方题录及标准化发布会核验；未取得可复制全文",
-      "limit": "用于建立全流程框架，不补写未核验条号或阈值",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=6F9711A3265EBF03FE3C3441D0FE27C0"
-    },
-    {
-      "id": "S06",
-      "code": "GB/T 38698.1—2020",
-      "title": "车用动力电池回收利用 管理规范 第1部分 包装运输",
-      "published": "2020-03-31",
-      "effective": "2020-10-01",
-      "kind": "国家推荐性标准",
-      "feature": "包装运输；上海标准第5章明确引用其A/B/C分类",
-      "access": "官方题录与地方标准引用条款核验",
-      "limit": "不以江苏分选标准同名字母类别替代运输分类",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=2667076EE97872E731E7985FECF4C3C7"
-    },
-    {
-      "id": "S07",
-      "code": "GB/T 34014—2017",
-      "title": "汽车动力蓄电池编码规则",
-      "published": "2017-07-12",
-      "effective": "2018-02-01",
-      "kind": "国家推荐性标准",
-      "feature": "编码及跨主体对象关联",
-      "access": "官方题录；页面注明第1号修改单，须连同修改单使用",
-      "limit": "用于身份连接，不编造编码字段长度和校验位规则",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=60E981B01DE41613119F9C788AE3EAE4"
-    },
-    {
-      "id": "S08",
-      "code": "GB/T 33598.2—2020",
-      "title": "车用动力电池回收利用 再生利用 第2部分 材料回收要求",
-      "published": "2020-03-31",
-      "effective": "2020-10-01",
-      "kind": "国家推荐性标准",
-      "feature": "镍钴锰综合回收率≥98%；锂回收率≥85%",
-      "access": "官方题录与市场监管总局2025-10-17发布会原文核验",
-      "limit": "阈值按处理环节分母；98%为镍钴锰综合口径，不是每种电池总质量回收率",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=97908F7AAA375BDA99C57E9AC946B0C3"
-    },
-    {
-      "id": "S09",
-      "code": "GB/T 47393—2026",
-      "title": "废弃锂电池化学品定向循环利用技术指南",
-      "published": "2026-03-31",
-      "effective": "2026-10-01",
-      "kind": "国家推荐性标准",
-      "feature": "最新定向循环技术指南，10月1日已实施",
-      "access": "官方题录与2026第15号公告核验；未获得全文",
-      "limit": "纳入最新标准衔接，不将题名或专利RMS等同指南认可技术",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=DEF701318D7F8E6E2E8DB6B62390E834"
-    },
-    {
-      "id": "S10",
-      "code": "DB31/T 1556—2025",
-      "title": "电动汽车废旧动力电池收集型回收服务网点技术要求",
-      "published": "2025-03-26",
-      "effective": "2025-07-01",
-      "kind": "上海推荐性地方标准",
-      "feature": "第6章：A类≤20天；B/C类≤5天；第5章记录≥3年",
-      "access": "官方8页全文；第5—7章及适用范围核验",
-      "limit": "适用于上海收集型网点；不适用于集中贮存型，时限不外推全国",
-      "url": "https://dbba.sacinfo.org.cn/portal/download/9654370ff159be94d8944bc00b4e1a79dbc8f9e011e32ee0e00c6d2e02ade63a"
-    },
-    {
-      "id": "S11",
-      "code": "DB32/T 4941—2024",
-      "title": "电动汽车用退役动力电池分选技术规程",
-      "published": "2024-12-16",
-      "effective": "2025-01-16",
-      "kind": "江苏推荐性地方标准",
-      "feature": "6.7.1.2：特定类别剩余容量比<50%或额定容量不可追溯时转再生；6.7.1.1另含直接再生条件",
-      "access": "官方17页全文；范围、5章及6.7核验",
-      "limit": "字母分类与包装运输分类不是同一概念；≥50%不自动等于可再利用，现行用途须核对2026政策",
-      "url": "https://dbba.sacinfo.org.cn/portal/download/12c070065c59095971b84af4ee9b20fba0b76a25d6355f3b062aa69e3eb2e047"
-    },
-    {
-      "id": "S12",
-      "code": "DB43/T 3437—2025",
-      "title": "车用动力锂电池回收利用企业碳核算技术规范",
-      "published": "2025-12-15",
-      "effective": "2026-03-15",
-      "kind": "湖南推荐性地方标准",
-      "feature": "4章组织/设施边界；5.2.1总量、5.2.4运输、5.2.5电热；绿电单列不直接扣减",
-      "access": "官方31页扫描全文逐页选读；印刷页3—7",
-      "limit": "企业排放核算不是全生命周期减排；标准历史梯次措辞不自动决定现行用途",
-      "url": "https://dbba.sacinfo.org.cn/portal/download/78cef7eb10a04f13bf79b32dd84edfb596548488c57af9111182a1d474b5e117"
-    },
-    {
-      "id": "S03",
-      "code": "GB/T 38698.2—2023",
-      "title": "车用动力电池回收利用 管理规范 第2部分：回收服务网点（GB/T 38698.2—2023）",
-      "published": "2023-09-07",
-      "effective": "2023-09-07",
-      "kind": "国家推荐性标准",
-      "feature": "网点建设、作业、安全环保与应急；上海标准明确引用",
-      "access": "官方题录及状态；未逐条评注全文",
-      "limit": "不把未核验的国标具体容量阈值用作模型参数",
-      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=6E64F10B0819031ED30153D3AF5B661C"
-    },
-    {
-      "id": "S01",
-      "code": "HJ 1186—2021",
-      "title": "废锂离子动力蓄电池处理污染控制技术规范（试行）（HJ 1186—2021）",
-      "published": "2021-08-20",
-      "effective": "2022-01-01",
-      "kind": "国家生态环境标准",
-      "feature": "预处理、再生处理及污染控制；作为环境约束",
-      "access": "官方标准发布页及范围",
-      "limit": "污染达标与温室气体清单分别评价；本次不新设排放限值",
-      "url": "https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/gthw/qtxgbz/202108/t20210820_858544.shtml"
-    }
-  ],
-  "chemistry": [
-    {
-      "region": "中国",
-      "year": 2023,
-      "chemistry": "低镍",
-      "share": 1.9,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2023,
-      "chemistry": "中高镍",
-      "share": 30.8,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2023,
-      "chemistry": "磷酸铁锂",
-      "share": 67.3,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2024,
-      "chemistry": "低镍",
-      "share": 0.4,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2024,
-      "chemistry": "中高镍",
-      "share": 25.0,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2024,
-      "chemistry": "磷酸铁锂",
-      "share": 74.6,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2025,
-      "chemistry": "低镍",
-      "share": 0.1,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2025,
-      "chemistry": "中高镍",
-      "share": 18.7,
-      "source": "D03"
-    },
-    {
-      "region": "中国",
-      "year": 2025,
-      "chemistry": "磷酸铁锂",
-      "share": 81.2,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2023,
-      "chemistry": "低镍",
-      "share": 12.6,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2023,
-      "chemistry": "中高镍",
-      "share": 54.5,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2023,
-      "chemistry": "磷酸铁锂",
-      "share": 32.9,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2024,
-      "chemistry": "低镍",
-      "share": 6.6,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2024,
-      "chemistry": "中高镍",
-      "share": 47.1,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2024,
-      "chemistry": "磷酸铁锂",
-      "share": 46.3,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2025,
-      "chemistry": "低镍",
-      "share": 4.1,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2025,
-      "chemistry": "中高镍",
-      "share": 29.4,
-      "source": "D03"
-    },
-    {
-      "region": "其他新兴市场和发展中经济体",
-      "year": 2025,
-      "chemistry": "磷酸铁锂",
-      "share": 66.5,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2023,
-      "chemistry": "低镍",
-      "share": 19.4,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2023,
-      "chemistry": "中高镍",
-      "share": 75.5,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2023,
-      "chemistry": "磷酸铁锂",
-      "share": 5.1,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2024,
-      "chemistry": "低镍",
-      "share": 11.3,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2024,
-      "chemistry": "中高镍",
-      "share": 76.7,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2024,
-      "chemistry": "磷酸铁锂",
-      "share": 12.0,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2025,
-      "chemistry": "低镍",
-      "share": 11.4,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2025,
-      "chemistry": "中高镍",
-      "share": 75.9,
-      "source": "D03"
-    },
-    {
-      "region": "欧盟",
-      "year": 2025,
-      "chemistry": "磷酸铁锂",
-      "share": 12.7,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2023,
-      "chemistry": "低镍",
-      "share": 1.1,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2023,
-      "chemistry": "中高镍",
-      "share": 91.0,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2023,
-      "chemistry": "磷酸铁锂",
-      "share": 7.9,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2024,
-      "chemistry": "低镍",
-      "share": 0.2,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2024,
-      "chemistry": "中高镍",
-      "share": 92.9,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2024,
-      "chemistry": "磷酸铁锂",
-      "share": 6.9,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2025,
-      "chemistry": "低镍",
-      "share": 0.4,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2025,
-      "chemistry": "中高镍",
-      "share": 95.7,
-      "source": "D03"
-    },
-    {
-      "region": "美国",
-      "year": 2025,
-      "chemistry": "磷酸铁锂",
-      "share": 3.9,
-      "source": "D03"
-    }
-  ]
+  "verified_on": "2026-10-21",
+  "citations": {
+    "P08": 1,
+    "P25": 2,
+    "P09": 3,
+    "P01": 4,
+    "D04": 5,
+    "D05": 6,
+    "D06": 7,
+    "D01": 8,
+    "D02": 9,
+    "P11": 10,
+    "I06": 11,
+    "D03": 12,
+    "L06": 13,
+    "L07": 14,
+    "L16": 15,
+    "L18": 16,
+    "L19": 17,
+    "I08": 18,
+    "L21": 19,
+    "L22": 20,
+    "L10": 21,
+    "L11": 22,
+    "L05": 23,
+    "L20": 24,
+    "L01": 25,
+    "L04": 26,
+    "L02": 27,
+    "L12": 28,
+    "L17": 29,
+    "L03": 30,
+    "L13": 31,
+    "L14": 32,
+    "L08": 33,
+    "L09": 34,
+    "L15": 35,
+    "P02": 36,
+    "P03": 37,
+    "P04": 38,
+    "P05": 39,
+    "P06": 40,
+    "P07": 41,
+    "P14": 42,
+    "P15": 43,
+    "P21": 44,
+    "P16": 45,
+    "P17": 46,
+    "P18": 47,
+    "P20": 48,
+    "P19": 49,
+    "P22": 50,
+    "P23": 51,
+    "P24": 52,
+    "B04": 53,
+    "S10": 54,
+    "S03": 55,
+    "P10": 56,
+    "P12": 57,
+    "S01": 58,
+    "I07": 59,
+    "K01": 60,
+    "K02": 61,
+    "K03": 62,
+    "K04": 63,
+    "I01": 64,
+    "I02": 65,
+    "I09": 66,
+    "S05": 67,
+    "S06": 68,
+    "S07": 69,
+    "S08": 70,
+    "S09": 71,
+    "S11": 72,
+    "S12": 73,
+    "B03": 74,
+    "M01": 75,
+    "M02": 76
+  }
 }

@@ -1,44 +1,42 @@
-# 动力电池回收研究
+# 动力电池回收匿名研究网页 V2
 
-[在线打开研究资料站](https://sss-sks.github.io/-/) · [下载集成式HTML](https://github.com/SSS-SKS/-/releases/download/offline-html/battery-recycling-research.html)
+[打开匿名研究网页](https://sss-sks.github.io/-/) · [直接下载集成式HTML](https://github.com/SSS-SKS/-/releases/download/offline-html/battery-recycling-research.html)
 
-这是独立研究网站，按研究总览、政策脉络、文献评述、责任与溯源、数理分析、标准与模型、专利、图表、资料检索及下载中心组织。包含18幅图表、83条来源、四类情景计算和匿名数据下载。
+单个HTML包含匿名研究内容、18幅图表、84条公开来源、76条文献编号，以及信息时滞、贮存周转、材料回收、企业碳排放四类可输入计算工具。网页与正式报告独立保存，不提供Word下载。
 
-网页中的“下载HTML”按钮点击即可保存，下载后可用浏览器离线打开。图像、样式、脚本和资料均已内嵌，无需安装软件。网站不包含报告全文或Word下载入口，研究报告独立维护。
+## 输入计算
 
-## 资料
+- 信息窗口：运输间隔、提前报送系数和观察阈值；显示均值、中位数、分位、零值概率及尾部概率。
+- 贮存周转：分类期限、容量、日入库、预留量、准备时间及实际转运周期；同时检验期限和容量。
+- 材料回收：进入率、有效工序进入率和目标元素工序率。
+- 企业碳账：单位用电、电力因子、其他净排放，或燃烧、过程、运输及扣减分项。
 
-- [Excel证据库](data/evidence-database.xlsx)：22个工作表，82条来源。
-- [GS1补充记录](data/source-supplement.csv)；[整合83条来源](research/evidence.json)。
-- [图表与图号](research/figure_catalog.json)；[模型数据](research/model/)。
-- [计算与文件核验结果](validation-summary.json)。
+全部输入即时更新，支持参考情景、重置、下载参数与结果。点击“保存单文件网页”后可以离线使用，当前计算参数随文件保存；重置会恢复研究参考值。
 
-## 核心结果复算
+## 图表与资料
+
+正文图1—8、专题图A1—A10与V2研究图号对应。图表目录见 [figure_catalog.json](research/figure_catalog.json)，完整来源见 [evidence.json](research/evidence.json)，76条编号见 [citation_map.json](research/citation_map.json)。
+
+[基础Excel](data/evidence-database.xlsx)包含82条来源和22个工作表；[补充来源](data/source-supplement.csv)包含GS1及绿色转型政策；[V2文献编号对照](data/reference-map-v2.csv)列出76条题录与网址。完整84条来源JSON与模型CSV可从网页下载或在仓库中查阅。
+
+## 复算与验证
 
 Python 3.10或更新版本，无额外依赖：
 
 ```sh
-python check_core.py
+python check_public.py
 ```
 
-复算待匹配窗口10.31日、超过15日概率31.67%、准备时间缩短后的转运上界4.5日、全链条锂回收64.60%和企业情景强度0.44吨CO₂/吨。脚本另以数值积分核对时滞解析式。
+核心参考值为待匹配窗口10.31日、超过15日概率31.67%、周转上限4日及缩短准备后的4.5日、全链条回收64.60%、企业排放强度0.44吨CO₂/吨。全部为给定假设下的条件结果，不表示现实违规率、全国回收率或生命周期净减排。
 
-## 绘图
+绘图脚本和模型数据保存在 `research/`；网页插图PNG按图表目录提供。计算、桌面/手机交互及离线验证摘要见 [validation-summary.json](validation-summary.json)。
 
-已有研究图使用 R 4.3+，所需包为 ggplot2、patchwork、jsonlite、ragg、svglite、scales、systemfonts。依次在 `research/` 目录运行 `plot_research.R`、`plot_standards.R`、`plot_revisions.R`。字体使用 Noto Sans CJK SC。几何核验脚本保存在 `research/qa_tools/`。
+## 署名和许可
 
-资料入口、政策表头及综合机制图使用 R 4.6.1 与 svglite 2.2.2；中文字体仿宋，英文 Times New Roman。将 `qr-matrix.csv`、`official-mark.csv` 与输出目录放在同一级目录后执行：
+- IEA数据按CC BY 4.0署名，参见 [IEA图表](https://www.iea.org/data-and-statistics/charts/electric-vehicle-battery-sales-share-by-chemistry-and-region-2023-2025)。
+- 图A1：Chacana-Olivares等（2025）Fig.1，完整文献原图，非商业学习用途；[原文](https://www.nature.com/articles/s44296-025-00083-7)，CC BY-NC-ND 4.0。
+- 图A2：Tembo等（2024）Fig.7；[原文](https://doi.org/10.1038/s41427-024-00562-8)，CC BY 4.0。
+- 图A3：Anticoi等（2025）Fig.9；[原文](https://doi.org/10.1007/s10163-025-02159-x)，CC BY 4.0。
+- 图1为工信部官网原页面的条款截图，来源与截取日期随图保留。
 
-```sh
-Rscript plot_integration.R new-figures
-```
-
-## 图像署名与许可
-
-- IEA公开数据按 CC BY 4.0 署名，详见[IEA原始数据](https://www.iea.org/data-and-statistics/charts/electric-vehicle-battery-sales-share-by-chemistry-and-region-2023-2025)。
-- 图5：Chacana-Olivares等（2025）Fig.1，完整原图，仅等比例显示，非商业学习用途；[原文](https://www.nature.com/articles/s44296-025-00083-7)，[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
-- 图6：Tembo等（2024）Fig.7，完整原图；[原文](https://doi.org/10.1038/s41427-024-00562-8)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
-- 图16：Anticoi等（2025）Fig.9，完整原图；[原文](https://doi.org/10.1007/s10163-025-02159-x)，CC BY 4.0。
-- 政策表头中的标识采用工信部官方原图，文号和日期据原文重排，不是官网截图。
-
-正式报告文档、学校及个人信息不在本仓库发布。第三方资料遵循各自署名和许可，不对其统一授予新许可。
+公开目录不包含正式报告文件、学校信息或个人附录。第三方资料遵循各自署名和许可。
